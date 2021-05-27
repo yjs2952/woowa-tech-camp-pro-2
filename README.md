@@ -9,5 +9,5 @@ NEXT STEP (2021.05.17 ~ 2021.07.16)
 * 5단계 - 로또(수동) : [Pull Request](https://github.com/next-step/java-lotto/pull/1628)
 
 ## 2주차 - JPA
-#### [로또 - TDD](https://github.com/yjs2952/jwp-qna)
+#### [JPA](https://github.com/yjs2952/jwp-qna)
 * 1단계 - 엔티티 매핑 : [Pull Request](https://github.com/next-step/jwp-qna/pull/12)
