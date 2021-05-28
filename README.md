@@ -11,3 +11,4 @@ NEXT STEP (2021.05.17 ~ 2021.07.16)
 ## 2주차 - JPA
 #### [JPA](https://github.com/yjs2952/jwp-qna)
 * 1단계 - 엔티티 매핑 : [Pull Request](https://github.com/next-step/jwp-qna/pull/12)
+* 2단계 - 연관 관계 매핑 : [Pull Request](https://github.com/next-step/jwp-qna/pull/18)
