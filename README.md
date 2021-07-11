@@ -20,3 +20,8 @@ NEXT STEP (2021.05.17 ~ 2021.07.16)
 * 2단계 - 인수 테스트 리팩터링 : [Pull Request](https://github.com/next-step/atdd-subway-admin/pull/217)
 * 3단계 - 구간 추가 기능 : [Pull Request](https://github.com/next-step/atdd-subway-admin/pull/244)
 * 4단계 - 구간 제거 기능 : [Pull Request](https://github.com/next-step/atdd-subway-admin/pull/284) 
+
+## 4주차 - 그럴듯한 서비스 만들기
+#### [그럴듯한 서비스 만들기](https://github.com/yjs2952/infra-subway-deploy/tree/yjs2952)
+* 1단계 - 서비스 구성하기 : [Pull Request](https://github.com/next-step/infra-subway-deploy/pull/82)
+* 2단계 - 서비스 배포하기 : [Pull Request](https://github.com/next-step/infra-subway-deploy/pull/113)
