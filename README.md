@@ -32,3 +32,8 @@ NEXT STEP (2021.05.17 ~ 2021.07.16)
 * 2단계 - 경로 조회 기능 : [Pull Request](https://github.com/next-step/atdd-subway-service/pull/236)
 * 3단계 - 인증을 통한 기능 구현 : [Pull Request](https://github.com/next-step/atdd-subway-service/pull/258)
 * 4단계 - 요금 조회 : [Pull Request](https://github.com/next-step/atdd-subway-service/pull/294)
+
+## 6주차 - 서비스 진단하기
+#### [인수테스트 기반 TDD](https://github.com/yjs2952/atdd-subway-service/tree/yjs2952)
+* 1단계 - 로깅과 모니터링 : [Pull Request](https://github.com/next-step/infra-subway-monitoring/pull/31)
+* 2단계 - 성능 테스트 : [Pull Request](https://github.com/next-step/infra-subway-monitoring/pull/79)
