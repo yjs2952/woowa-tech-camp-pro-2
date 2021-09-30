@@ -1,4 +1,4 @@
-# 우아한 테크 캠프 2기
+# 우아한 테크 캠프 PRO 2기
 NEXT STEP (2021.05.17 ~ 2021.07.16)
 ## 1주차 - 로또 TDD 
 #### [로또 - TDD](https://github.com/yjs2952/java-lotto)
